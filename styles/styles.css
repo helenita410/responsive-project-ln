@@ -1,9 +1,27 @@
-h1 {
+h1 h2 h3 h4 h5 h6 {
   font-family: "Playfair Display", serif;
   font-weight: bold;
+}
+h1 {
+  font-size: 96px;
 }
 
 p {
   font-family: "Playfair Display", serif;
   font-weight: normal;
+}
+.hero {
+  background-color: #ddeedf;
+  text-align: center;
+}
+
+.hero p {
+  font-family: "Poppins", serif;
+  font-size: 36px;
+  font-weight: bold;
+}
+.hero h2 {
+  font-family: "Poppins", serif;
+  font-weight: normal;
+  font-size: 24px;
 }
