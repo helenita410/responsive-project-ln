@@ -32,7 +32,6 @@ p {
 }
 
 .hero p {
-  font-size: 36px;
   font-weight: bold;
   color: var(--secondary-color);
 }
