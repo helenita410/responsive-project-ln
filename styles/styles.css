@@ -24,6 +24,7 @@ p {
   font-size: 16px;
   font-weight: normal;
   margin: 0;
+  line-height: 1.7;
 }
 .hero {
   background-color: #ddeedf;
@@ -44,6 +45,14 @@ p {
   background: var(--branding-color);
   border-radius: 4px;
   color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 12px 30px;
+}
+.btn-branding-pattern {
+  color: var(--branding-color);
+  border: 1 px solid var(--branding-color);
+  border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
   padding: 12px 30px;
