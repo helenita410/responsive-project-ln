@@ -52,7 +52,7 @@ p {
 }
 .btn-branding-pattern {
   color: var(--branding-color);
-  border: 5 px solid var(--branding-color);
+  border: 1 px solid var(--branding-color);
   border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
