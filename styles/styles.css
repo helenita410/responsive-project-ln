@@ -96,6 +96,9 @@ p {
 .logo {
   max-width: 150px;
 }
+nav li {
+  display: inline;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
