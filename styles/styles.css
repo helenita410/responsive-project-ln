@@ -96,9 +96,13 @@ p {
 .logo {
   max-width: 150px;
 }
+nav {
+  padding: 20px 0;
+}
 nav li {
   display: inline;
   list-style: none;
+  line-height: 42px;
 }
 nav ul {
   margin: 0;
