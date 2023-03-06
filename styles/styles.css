@@ -137,6 +137,11 @@ footer.e-mail-link:hover {
   padding: 10px 14px;
   font-size: 18px;
   border-radius: 50%;
+  transition: all 150ms ease;
+}
+.social a:hover {
+  color: white;
+  background: var(--branding-color);
 }
 @media (max-width: 900px) {
   h1 {
