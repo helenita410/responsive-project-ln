@@ -118,6 +118,9 @@ nav a:hover,
 nav li.active a {
   color: var(--branding-color);
 }
+footer {
+  margin: 60px 0;
+}
 footer .e-mail-link {
   text-decoration: none;
   color: black;
@@ -126,6 +129,11 @@ footer .e-mail-link {
 }
 footer.e-mail-link:hover {
   color: var(--branding-color);
+}
+footer.social-links {
+  margin: 0 20px;
+  color: var(--branding-color);
+  background: var(--secondary-color);
 }
 @media (max-width: 900px) {
   h1 {
