@@ -20,10 +20,12 @@ h1 {
 
 h2 {
   font-size: 64px;
+  font-family: var(--heading-font-family);
 }
 
 h4 {
   font-size: 48px;
+  font-family: var(--heading-font-family);
 }
 
 p {
@@ -174,7 +176,7 @@ footer.e-mail-link:hover {
   .hero {
     padding: 80px 20px;
   }
-  project.description {
+  .project-description {
     padding: 0;
     text-align: center;
   }
